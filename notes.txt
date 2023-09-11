@@ -1,0 +1,59 @@
+Destination domain: littlealchemy2.com
+
+IP Addresses
+192.168.1.1
+100.2.48.1
+100.41.23.154
+100.41.23.156
+152.193.5.194
+162.158.152.3
+172.70.108.2
+162.158.156.3
+104.26.13.171
+
+Physical coordinates
+0, 0 (Private IP address LAN)
+40.713192, -74.006065  (NYC)
+38.895390, -77.039476 (NYC)
+38.895390, -77.039476 (DC)
+40.713192, -74.006065 (NYC)
+40.732277, -74.173575 (Newark
+40.732277, -74.173575 (Newark)
+40.732277, -74.173575 (Newark)
+37.775700, -122.395200 (San Francisco)
+
+New York City - City Hall Park
+“The land has been used, among other things, as a pasture, a prison, a parade ground, a public execution site, an almshouse, an art museum, and a post office.”
+Earliest known gay male cruising spot from the 1840s
+African burial grounds have been found in the park, now marked as a National Historic Site
+https://www.nycgovparks.org/parks/city-hall-park/history
+https://www.nyclgbtsites.org/site/city-hall-park/
+burialgrounds.jpeg
+oldcityhall.jpeg
+cityhall.png
+
+Washington DC - 17 St NW outside the White House
+Corcoran Gallery of Art (housing an arts school) was the oldest cultural private institution in DC, closed in 2014 due to economic crisis
+Lot of arts and cultural institutions are around the area, with the Smithsonian’s Renwick Gallery being one of the more prominent ones
+Lot of white interiors near the white house
+Indigenous people of Potomac Valley (including Nacotchtank and Piscataway) are important to acknowledge within the historic context of such a monumental building 
+https://clintonwhitehouse4.archives.gov/WH/glimpse/top.html
+https://www.whitehousehistory.org/collections/native-americans-and-the-white-house
+corcoran.jpeg
+renwick.webp
+whitehouse.png
+
+Newark - Green St outside Newark City Hall
+Three pink buildings that look really out of place within the white marble walls of the city hall and other municipal buildings around the area
+The city hall building itself is made in a Beaux-Arts style
+https://web.archive.org/web/20100621093639/http://www.ci.newark.nj.us/visitors/landmarks__points_of_oten.php
+https://www.loc.gov/item/nj0920/
+restaurant.png
+
+San Francisco - King St near San Francisco Station
+Near the Mission Creek Channel, which is a channel from the bigger Mission Bay, a man-made saltwater bay in California
+The area used to be populated with houseboats and for a lower-income population, until gentrification in the early 2000s as a response to depolluting the creek
+https://www.sfgate.com/bayarea/article/Creek-rising-New-parks-development-will-2656390.php
+missioncreek.jpeg
+sfstation.jpeg
+
