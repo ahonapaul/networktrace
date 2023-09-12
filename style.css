@@ -1,0 +1,104 @@
+body{
+    background-color: white;
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.slide1, .slide2, .slide3{
+    height: 300vh;
+}
+
+.one{
+    width: 100vw;
+    height: 100vh;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.two{
+    width: 30vw;
+    height: 50vh;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 70px;
+    left: 70px;
+    z-index: 3;
+}
+
+.three{
+    width: 60vw;
+    height: 40vw;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 250px;
+    left: 30vw;
+    z-index: 2;
+
+}
+
+.four{
+    width: 500px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50vh;
+    left: 200px;
+    z-index: 4;
+}
+
+.five{
+    width: 300px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 200px;
+    left: 75vw;
+    z-index: 4;
+}
+
+
+
+.six{
+    width: 100vw;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    bottom: 300vh;
+    z-index: 5;
+}
+
+.seven{
+    height: 100vh;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    left: 30vw;
+    bottom: 300vh;
+    z-index: 6;
+}
+
+.eight{
+    width: 20vw;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10vh;
+    bottom: 200vh;
+    z-index: 7;
+}
+
+.nine{
+    width: 20vw;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 10vh;
+    left: 80vw;
+    bottom: 200vh;
+    z-index: 7;
+}
+
+/* end session note: maybe split slide 3 div into two, 
+and somehow overlap instead of same div
+
+
+*/
